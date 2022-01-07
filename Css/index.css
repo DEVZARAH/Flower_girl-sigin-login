@@ -72,6 +72,8 @@ input{
 }
 .back{
     background-color: rgba(255, 255, 255, 0.2);
+    margin-top: 0;
+
 }
 
 .media{
@@ -86,7 +88,7 @@ input{
     border-radius: 10px;
     font-size: 20px;
     padding-right: 10%;
-    padding-left: 10%;
+    padding-left: 12%;
     padding-top: 3%;
     padding-bottom: 3%;
     margin-left: 4%;
@@ -106,6 +108,25 @@ form{
 }
 .none{
     text-decoration: none;
+}
+.iconic{
+    position: absolute;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.con{
+    padding-left: 25px ;
+}
+
+
+.pos{
+    position: relative;
+
+}
+
+.fab{
+    color: rgb(255, 255, 255);
+
 }
 
     
